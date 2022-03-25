@@ -1,1 +1,4 @@
 # Mathematical_Fundamentals_Experiments
+华南师范大学数学科学学院信息与计算科学
+
+数学基础实验
